@@ -31,5 +31,4 @@ Caso tenha dúvidas, entre em contato! 😃
 ---
 
 ✍ **Criado por:** *Andersin José Simplício*  
-📆 Última atualização: `$(date +"%d/%m/%Y")`
 
