@@ -26,8 +26,6 @@ Bem-vindo ao repositório oficial das minhas aulas na **Escola Estadual Prof. Jo
 
 Caso tenha dúvidas, entre em contato! 😃
 
-📩 **Contato:** [Seu Email ou GitHub](https://github.com/andersonsimplicio)
-
 ---
 
 ✍ **Criado por:** *Andersin José Simplício*  
