@@ -1,0 +1,28 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const button = document.querySelector("input[type='button']");
+    
+    button.addEventListener("click", function () {
+        // Pegando os valores dos inputs
+        let nome = document.getElementById("fname").value;
+        let sobrenome = document.getElementById("lname").value;
+        let instrumento = document.getElementById("instrument").value;
+
+        // Verificando se os campos estão preenchidos
+        if (nome === "" || sobrenome === "") {
+            alert("Preencha todos os campos!");
+            return;
+        }
+
+        // Criando uma nova linha na tabela
+        let tabela = document.querySelector("tbody");
+        let novaLinha = "<tr><td>" + nome + "</td><td>" + sobrenome + "</td><td>" + instrumento + "</td></tr>";
+
+        // Adicionando a linha à tabela
+        tabela.innerHTML += novaLinha;
+
+        // Limpando os campos
+        document.getElementById("fname").value = "";
+        document.getElementById("lname").value = "";
+        document.getElementById("instrument").selectedIndex = 0;
+    });
+});
