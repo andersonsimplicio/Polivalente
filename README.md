@@ -3,7 +3,8 @@
 ![Logo da Escola](./LOGO.png)
 
 Bem-vindo ao repositório oficial das minhas aulas na **Escola Estadual Prof. João Anastácio - Polivalente**. Aqui você encontrará materiais, exercícios e conteúdos relacionados às disciplinas ministradas.
-
+<br/>
+<a href="https://padisonhogrande.surveycto.com/collect/padi_2025_estudante">Pesquisa</a>
 ---
 
 ## Disciplinas
