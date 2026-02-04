@@ -8,13 +8,8 @@ Bem-vindo ao repositório oficial das minhas aulas na **Escola Estadual Prof. Jo
 
 ## Disciplinas
 
-- [LAB. SOFTWARE](./LAB_SOFTWARE/)
-- [G CONT./BD](./G_CONT_BD/)
-- [ALGORÍT. ED](./ALGORITMOS/)
-- [PROGR. WEB II](./PROG_WEB_II/)
-- [LAB. WEB](./LAB_WEB/)
+- [P.O.O./KOTLIN](./POO-Kotlin/)
 - [P.O.O./JAVA](./POO_JAVA/)
-- [FRONT-END I](./FRONT_END_I/)
 - [LÓG. DE PROG.](./LOG_DE_PROG/)
 
 ---
